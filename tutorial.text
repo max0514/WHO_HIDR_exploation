@@ -1,0 +1,12 @@
+In the context of the Health Inequality Data Repository (HIDR) API:
+
+Download: The "Download" function is used to download specific files from the HIDR. You can use it to download the latest version of both the data and metadata files,
+ the latest version of either a data or a metadata file, or a specific version of a data or metadata file. The downloaded files can be in various formats such as .xlsx or .pdf, 
+ or a ZIP file containing both data and metadata files. The Download function requires you to specify the dataset ID and optionally the version date of the data or metadata file 
+ you wish to download​1​.
+
+Files: The "Files" function, on the other hand, is used to list the existing files in the HIDR. It returns a list of files in a specific dataset in the HIDR. 
+This can be useful if you want to see what files are available in a dataset before you decide to download them. 
+The API responses from the Files function are returned in JSON format. This function requires you to specify the dataset ID​1​.
+
+In essence, the "Files" function gives you information about the existing files in a dataset, while the "Download" function allows you to download these files.
