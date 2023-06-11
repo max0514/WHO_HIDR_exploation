@@ -1,0 +1,60 @@
+﻿dataset_id,dataset_name,topic_area
+rep_covid_cfr,COVID-19 case fatality ratios (WHO COVID-19 surveillance data),COVID-19
+rep_covid_rate,COVID-19 cases and deaths (WHO COVID-19 surveillance data),COVID-19
+rep_ctis1,COVID-19 related mental health and financial worry (Global COVID-19 Trends and Impact Survey),COVID-19
+rep_ctis2,COVID-19 vaccination (Global COVID-19 Trends and Impact Survey),COVID-19
+rep_ctis3,"COVID-19 burden, behaviours and testing (Global COVID-19 Trends and Impact Survey)",COVID-19
+rep_dhs_ahn,Adult health and nutrition (DHS Program),Adult health
+rep_dhs_hca,Health care access (DHS Program),Health care
+rep_dhs_unicef_cpr,Child protection (DHS Program and UNICEF Data Warehouse),Beyond the health sector
+rep_dhs_unicef_hiv,HIV/AIDS (DHS Program and UNICEF Data Warehouse),"HIV, tuberculosis and malaria"
+rep_dhs_unicef_malaria,Malaria (DHS Program and UNICEF Data Warehouse),"HIV, tuberculosis and malaria"
+rep_dhs_unicef_sdh,Health determinants (DHS Program and UNICEF Data Warehouse),Beyond the health sector
+rep_dtp_sub,Subnational DTP immunization dropout rates (WHO/UNICEF),Immunization
+rep_eurostat_ah,Adult health (Eurostat),Adult health
+rep_eurostat_disab1,Indicators disaggregated by disability (Eurostat),Disability
+rep_eurostat_disab2,Indicators among people with disabilities (Eurostat),Disability
+rep_eurostat_hc,Health care (Eurostat),Health care
+rep_eurostat_sdh,Health determinants (Eurostat),Beyond the health sector
+rep_gdl1,Development indices (Global Data Lab),Beyond the health sector
+rep_gdl2,Development indicators (Global Data Lab),Beyond the health sector
+rep_ghe_daly_age,Disability-adjusted life years by age (WHO Global Health Estimates),Burden of disease
+rep_ghe_daly_sex,Disability-adjusted life years by sex (WHO Global Health Estimates),Burden of disease
+rep_ghe_death_age,Mortality rates by age (WHO Global Health Estimates),Burden of disease
+rep_ghe_death_sex,Mortality rates by sex (WHO Global Health Estimates),Burden of disease
+rep_ghe_yld_age,Years of healthy life lost due to disability by age (WHO Global Health Estimates),Burden of disease
+rep_ghe_yld_sex,Years of healthy life lost due to disability by sex (WHO Global Health Estimates),Burden of disease
+rep_ghe_yll_age,Years of life lost from mortality by age (WHO Global Health Estimates),Burden of disease
+rep_ghe_yll_sex,Years of life lost from mortality by sex (WHO Global Health Estimates),Burden of disease
+rep_gho,WHO Global Health Observatory (GHO),WHO Global Health Observatory (GHO)
+rep_gho_alcohol,Alcohol (WHO Global Health Observatory),Adult health
+rep_gho_env,Environmental health (WHO Global Health Observatory),Environmental health
+rep_gho_hc,Health care system and access (WHO Global Health Observatory),Health care
+rep_gho_mortality,Life expectancy and mortality (WHO Global Health Observatory),Burden of disease
+rep_gho_ncd,Noncommunicable diseases and risk factors (WHO Global Health Observatory),Adult health
+rep_gho_rmnch,"Reproductive, maternal, newborn and child health (WHO Global Health Observatory)","Reproductive, maternal and child health"
+rep_gho_tobacco,Tobacco (WHO Global Health Observatory),Adult health
+rep_gpw13,WHO 13th General Programme of Work (multiple data sources),WHO General Programme of Work
+rep_ihme_anaemia,Subnational anaemia prevalence geospatial estimates (IHME),"Reproductive, maternal and child health"
+rep_ihme_bf,Subnational breastfeeding prevalence geospatial estimates (IHME),"Reproductive, maternal and child health"
+rep_ihme_diarr,"Subnational diarrhoea prevalence, incidence and mortality geospatial estimates (IHME)","Reproductive, maternal and child health"
+rep_ihme_inc,Disease incidence estimates (IHME Global Burden of Disease study),Burden of disease
+rep_ihme_malaria,"Subnational malaria prevalence, incidence and mortality geospatial estimates (IHME)","HIV, tuberculosis and malaria"
+rep_ihme_prev,Disease prevalence estimates (IHME Global Burden of Disease study),Burden of disease
+rep_ihme_ssa_hiv,Sub-Saharan Africa subnational HIV incidence and mortality geospatial estimates (IHME),"HIV, tuberculosis and malaria"
+rep_imm,Childhood immunization (DHS/MICS/RHS re-analyzed by ICEH),Immunization
+rep_mpi,Multidimensional Poverty Index (UNDP and OPHI),Beyond the health sector
+rep_nut,Child malnutrition (UNICEF/WHO/World Bank),"Reproductive, maternal and child health"
+rep_oecd_ah,Self-reported health status (OECD),Adult health
+rep_oecd_hc,"Health care quality, resources and expenditure (OECD)",Health care
+rep_oecd_sdh,Health determinants (OECD),Beyond the health sector
+rep_rmnch,"Reproductive, maternal, newborn and child health (household surveys)","Reproductive, maternal and child health"
+rep_sdg,Sustainable Development Goals (SDGs),Sustainable Development Goals
+rep_swper,Women's empowerment index (SWPER) (DHS re-analyzed by ICEH),Beyond the health sector
+rep_tb,Tuberculosis (multiple data sources),"HIV, tuberculosis and malaria"
+rep_igme_u5mr,Under-five mortality (UN IGME),"Reproductive, maternal and child health; Burden of disease"
+rep_igme_u5mr_admin1,Subnational under-five mortality - first administrative level (UN IGME),"Reproductive, maternal and child health; Burden of disease"
+rep_igme_u5mr_admin2,Subnational under-five mortality - second administrative level (UN IGME),"Reproductive, maternal and child health; Burden of disease"
+rep_unaids_hiv,HIV epidemiological estimates (UNAIDS/UNICEF/WHO),"HIV, tuberculosis and malaria"
+rep_wash,"Water, sanitation and hygiene (WHO/UNICEF JMP)",Environmental health
+rep_wb,Health determinants (The World Bank Data Catalog),Beyond the health sector
