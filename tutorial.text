@@ -10,3 +10,9 @@ This can be useful if you want to see what files are available in a dataset befo
 The API responses from the Files function are returned in JSON format. This function requires you to specify the dataset ID​1​.
 
 In essence, the "Files" function gives you information about the existing files in a dataset, while the "Download" function allows you to download these files.
+
+
+
+
+
+
